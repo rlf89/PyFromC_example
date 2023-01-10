@@ -1,6 +1,6 @@
 ## Python from C example
 
-Example reproduces error when Py_Initialize() is called again after Py_Finalize()
+Example reproduces error (Python3.9, Python 3.10) when Py_Initialize() is called again after Py_Finalize()
 
 make all
 
